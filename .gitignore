@@ -1,3 +1,7 @@
+
+# Ignorar os dados do PostgreSQL
+postgres-data/
+
 # Go build files
 /bin/
 /build/
